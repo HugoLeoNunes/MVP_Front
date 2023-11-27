@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- descobrir o que é isso -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Dr Hugo Nunes - MVP</title>
+</head>
+
+<body>
+    <main>
+        <!-- Cabeçalho de informações do sistema -->
+        <header>
+            <div class="title">
+                <img src="img/Nunes.png" alt="Logo de Hugo Nunes e nome do escritório">
+            </div>
+        </header>
+
+        <div id="imgFundo">
+        </div>
+
+        <div>
+            <!-- Opções para adicionar um novo cliente -->
+            <novoCliente>
+                <div id = "divCadastrar" style="display: none;">
+                    <section class="newCliente">
+                        <input type="text" id="newCPF" placeholder="CPF do cliente:">
+                        <input type="text" id="newNome" placeholder="Nome completo:">
+                        <input type="text" id="newTelefone" placeholder="Telefone:">
+                        <span onclick="newCliente()" class="addBtn">Adicionar</span>
+                        <a href="index.html" id="Retornar"><img src="img/btn-back.png" alt="Voltar"></a>
+                    </section>
+                </div>
+                <button id="btnCadastro" style="background-color: transparent;" onclick="exibirCadastro();"><img src="img/cadastrar.png" alt=""></button>
+            </novoCliente>
+
+            <!-- Tabela com clientes existentes -->
+            
+            <div id = "divListar" style="display: none;">
+                <a href="index.html" id="Casa"><img src="img/segundo.png" alt="Voltar"></a>
+            </div>
+
+            <button id="btnListar" style="background-color: rgb(77, 0, 0);" onclick="exibirListar();"><img src="img/consultar.png" alt=""></button>
+        </div>
+        
+        <div id="listaDeClientes" style="display: none;">
+            <section class = "clientes">
+                <table id = "myTable">
+                    <tr>
+                        <th style="width: 25%;">CPF</th>
+                        <th style="width: 55%;">Nome</th>
+                        <th style="width: 15%;">Telefone</th>
+                        <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="25px" height = "25px"></th>
+                    </tr>
+                </table>
+            </section>
+        </div>
+    
+    </main>
+    <script src="scripts.js"></script>
+</body>
+
+</html>
+
+
