@@ -1,7 +1,9 @@
 # LawFlow
 
 
-*Informações sobre como utilizar o app no readme.md dentro da pasta*
+*Informações sobre como utilizar o app no [readme.md](https://gustavoguanabara.github.io)
+
+readme.md dentro da pasta*
 
 
 
