@@ -14,7 +14,7 @@ Assim, trata-se da etapa inaugural de um projeto destinado ao controle administr
 
 ### Agradecimentos: 
 
-* Em primeiro lugar a Deus por criar o mundo.
+* Em primeiro lugar a Deus por me ensinar que cada desafio é uma oportunidade de aprender a caminhar e conquistar coisas maiores.
 * Minha esposa que sempre que possível me permite estudar.
 * As minhas filhas que sempre que podem, pulam em mim enquanto estou trabalhando ou estudando. 👶
 * Aos amigos que me trazem cerveja e bebem comigo, enquanto estou "codando", principalmente hoje às 01h58min do 10/12/2023.
