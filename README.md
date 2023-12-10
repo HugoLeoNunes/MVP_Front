@@ -1,7 +1,7 @@
 # LawFlow
 
 
-*Informações sobre como utilizar no readme.md dentro da pasta*
+*Informações sobre como utilizar o app no readme.md dentro da pasta*
 
 
 
