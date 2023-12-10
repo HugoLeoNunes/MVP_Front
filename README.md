@@ -1,6 +1,8 @@
 # LawFlow
 
-*Informações sobre a utilização no readme.md dentro da pasta*
+
+*Informações sobre como utilizar no readme.md dentro da pasta*
+
 
 
 ## Simplificando o jurídico, conectando advogados ao Futuro!
