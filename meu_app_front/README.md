@@ -1,10 +1,8 @@
-# Meu Front
+# LawFlow
 
-Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Full Stack Básico** 
+## Simplificando o jurídico, conectando advogados ao Futuro!
 
-O objetivo aqui é ilutsrar o conteúdo apresentado na terceira aula.
+**Informações sobre como executar:**
 
----
-## Como executar
+Basta fazer o download do projeto, seguir os passos em Readme.md (link) do back end e abrir o arquivo index.html desta página no seu browser.
 
-Basta fazer o download do projeto e abrir o arquivo index.html no seu browser.
