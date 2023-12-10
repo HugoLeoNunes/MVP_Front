@@ -1,6 +1,6 @@
 # LawFlow
-
-
+  
+  
 *Informações sobre como utilizar o app no [readme.md](https://github.com/HugoLeoNunes/MVP_Front/blob/main/meu_app_front/README.md) dentro da pasta meu_app_front*
 
 
@@ -57,10 +57,9 @@ Por derradeiro, o aplicativo não apenas proporciona um meio acessível para adv
 
 *Insuflado de regozijo, malgrado fugaz o ensejo, colho-o para apetecer alvíssaras e enviar um amplexo.*
 
-**Dr. Hugo Leonardo Nunes.**
+[**Dr. Hugo Leonardo Nunes.**](https://www.linkedin.com/in/hugo-leonardo-nunes-474152246/) 
 * Consultor Juridico da Nunes & Nunes advogados.
-* Servidor público estadual (precisando largar urgentemente esse atraso de vida).
+* Gestor público estadual concursado (precisando urgentemente largar esse atraso de vida).
 * Mestre cervejeiro da Sexy Devil Beer (Hoby mais saboroso do mundo).
 * UX Design formado pela Google.
 * Desenvolvedor full stack em treinamento.
-
