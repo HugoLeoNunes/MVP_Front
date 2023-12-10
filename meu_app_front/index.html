@@ -26,9 +26,9 @@
             <novoCliente>
                 <div id = "divCadastrar" style="display: none;">
                     <section class="newCliente">
-                        <input type="text" id="newCPF" placeholder="CPF do cliente:">
+                        <input type="text" id="newCPF" placeholder="CPF do cliente:" maxlength="11">
                         <input type="text" id="newNome" placeholder="Nome completo:">
-                        <input type="text" id="newTelefone" placeholder="Telefone:">
+                        <input type="text" id="newTelefone" placeholder="Telefone:" maxlength="11">
                         <span onclick="newCliente()" class="addBtn">Adicionar</span>
                         <a href="index.html" id="Retornar"><img src="img/btn-back.png" alt="Voltar"></a>
                     </section>
@@ -36,7 +36,7 @@
                 <button id="btnCadastro" style="background-color: transparent;" onclick="exibirCadastro();"><img src="img/cadastrar.png" alt=""></button>
             </novoCliente>
 
-            <!-- Tabela com clientes existentes -->
+            <!-- Botões da tela inicial -->
             
             <div id = "divListar" style="display: none;">
                 <a href="index.html" id="Casa"><img src="img/segundo.png" alt="Voltar"></a>
@@ -44,14 +44,16 @@
 
             <button id="btnListar" style="background-color: rgb(77, 0, 0);" onclick="exibirListar();"><img src="img/consultar.png" alt=""></button>
         </div>
+
+        <!-- Tabela com clientes existentes, embora utilizando o "display none" devido a obrigatoriedade de SPA-->
         
         <div id="listaDeClientes" style="display: none;">
             <section class = "clientes">
                 <table id = "myTable">
                     <tr>
-                        <th style="width: 25%;">CPF</th>
-                        <th style="width: 55%;">Nome</th>
-                        <th style="width: 15%;">Telefone</th>
+                        <th style="width: 20%;">CPF</th>
+                        <th style="width: 50%;">Nome</th>
+                        <th style="width: 24%;">Telefone</th>
                         <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="25px" height = "25px"></th>
                     </tr>
                 </table>
@@ -63,5 +65,6 @@
 </body>
 
 </html>
+
 
 
