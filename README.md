@@ -58,9 +58,9 @@ Por derradeiro, o aplicativo não apenas proporciona um meio acessível para adv
 *Insuflado de regozijo, malgrado fugaz o ensejo, colho-o para apetecer alvíssaras e enviar um amplexo.*
 
 **Dr. Hugo Leonardo Nunes.**
-Consultor Juridico da Nunes & Nunes advogados.
-Servidor público estadual (precisando largar urgentemente este atraso de vida).
-Mestre cervejeiro da Sexy Devil Beer (Hoby mais saboroso do mundo).
-UX Design formado pela Google.
-Desenvolvedor full stack em treinamento.
+* Consultor Juridico da Nunes & Nunes advogados.
+* Servidor público estadual (precisando largar urgentemente este atraso de vida).
+* Mestre cervejeiro da Sexy Devil Beer (Hoby mais saboroso do mundo).
+* UX Design formado pela Google.
+* Desenvolvedor full stack em treinamento.
 
